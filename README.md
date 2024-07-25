@@ -1,2 +1,1 @@
-# w23_scai
-Repository for Winter 23 Santa Cruz AI competition submission. This project won 3rd place.
+Submission for Santa Cruz AI Winter 2023 competition. This project won 3rd place and was about using CNNs to predict what type of brain tumor a patient has and where the tumor is located. Additionally, cleaning data and optimizing the CNN was also a part of the work done in the project. The project consisted of a presentation and a Python Notebook.
